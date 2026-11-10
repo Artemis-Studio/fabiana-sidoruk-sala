@@ -1,0 +1,52 @@
+SALA DE OPERAÇÕES MKTOPS · FABIANA SIDORUK
+==========================================
+
+A Sala já chega pronta: identidade visual e o contexto da sua
+marca estão aqui dentro. Não tem
+configuração pra fazer.
+
+
+1. INSTALE O CLAUDE CODE (uma vez só, na sua máquina)
+
+   Antes de tudo você precisa do Node 18 ou mais novo. Baixe a
+   versão LTS em nodejs.org.
+
+   No Windows, instale também o Git for Windows:
+   git-scm.com/download/win
+
+   Depois, em qualquer terminal:
+
+       npm install -g @anthropic-ai/claude-code
+
+
+2. ABRA A SALA
+
+   Abra o terminal DENTRO desta pasta e digite:
+
+       claude
+
+   No Mac: clique com o botão direito na pasta > Novo Terminal na Pasta.
+   No Windows: clique com o botão direito dentro da pasta > Git Bash Here.
+
+
+3. PEÇA EM PORTUGUÊS
+
+   Exemplos:
+
+     "Roteiro de reel de 1 minuto sobre a relação com o dinheiro,
+      pra quem trabalha, paga as contas e sente que nunca é suficiente."
+
+     "Um carrossel sobre orientação profissional pra pais de
+      adolescente no fim do ensino médio, com a arte."
+
+
+------------------------------------------------------------------
+
+O QUE JÁ ESTÁ PRONTO
+
+  entregas/2026-10/reels/ os 8 reels editados (vídeo, capa e fala)
+  entregas/2026-10/animados/ 3 reels animados de exemplo
+  conteudo/ carrosséis-modelo e roteiros
+  design-system/guia-visual.html sua identidade visual (abra no navegador)
+
+Se alguma coisa travar, escreva "travei" e conte o que aconteceu.

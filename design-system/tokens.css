@@ -1,0 +1,30 @@
+/* Fabiana Sidoruk — tokens visuais. Fonte: design-system/design-system.md (27/10/2026). */
+@import url("https://fonts.googleapis.com/css2?family=Birthstone&family=DM+Sans:wght@400;500;600&display=swap");
+
+:root {
+  --oliva: #606C38;
+  --caramelo: #D7B892;
+  --creme: #FFFBF0;
+  --creme-2: #F5EFE0;
+  --terracota: #C97A63;
+  --terracota-escuro: #A65A4D;
+  --tinta: #2C2C2C;
+  --cinza: #5B5B5B;
+  --branco: #FFFFFF;
+
+  --foto-escurecida: rgba(44, 44, 44, .5);
+  --sombra-titulo: 0 2px 24px rgba(44, 44, 44, .35);
+
+  --font-assinatura: "Birthstone", cursive;
+  --font: "DM Sans", system-ui, sans-serif;
+
+  --margem-x: 80px;
+  --margem-y: 96px;
+}
+
+.titulo   { font-family: var(--font); font-weight: 600; line-height: 1.1; letter-spacing: -.02em; }
+.corpo    { font-family: var(--font); font-weight: 400; line-height: 1.4; }
+.label    { font-family: var(--font); font-weight: 500; text-transform: uppercase; letter-spacing: .14em; }
+.assinatura { font-family: var(--font-assinatura); font-weight: 400; }
+.destaque-claro  { color: var(--terracota-escuro); }  /* sobre creme */
+.destaque-escuro { color: var(--caramelo); }          /* sobre oliva ou foto */

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "brand_name": "Fabiana Sidoruk — Psicóloga (CRP 07/40773)",
+  "website_url": "https://fabianasidoruk.com.br",
+  "extracted_at": "2026-10-27T20:30:00-03:00",
+  "voice": {
+    "formal_casual": 5,
+    "rational_emotional": 6,
+    "playful_serious": 8,
+    "bold_subtle": 7,
+    "traditional_innovative": 4,
+    "expert_accessible": 6,
+    "descriptors": ["reflexiva", "acolhedora sem ser melosa", "sóbria"]
+  },
+  "colors": {
+    "primary": "#606C38",
+    "secondary": ["#D7B892", "#A65A4D", "#C97A63"],
+    "forbidden": ["branco sobre #D7B892 (contraste 1,9:1)", "#25D366 fora do botão de WhatsApp", "preto puro", "azul", "vermelho", "degradê"],
+    "background": "#FFFBF0",
+    "text": "#2C2C2C"
+  },
+  "typography": {
+    "heading_font": "DM Sans",
+    "body_font": "DM Sans",
+    "pairing_descriptor": "DM Sans 600 nos títulos e 400 no corpo; Birthstone (script) só na assinatura do nome"
+  },
+  "imagery": {
+    "style": "professional photography",
+    "subjects": ["Fabiana no próprio consultório", "consultório (sofá verde-sálvia, madeira clara, janela, estante de livros)", "Porto Alegre como paisagem"],
+    "composition": "luz natural quente, plano médio-fechado, muito respiro, rosto olhando para a câmera",
+    "forbidden": ["imagem de sofrimento ou sintoma (mão na cabeça, silhueta triste, cérebro, quebra-cabeça)", "paciente identificável ou sessão real", "antes e depois", "banco de imagem genérico", "filtro laranja ou sépia"]
+  },
+  "aesthetic": {
+    "mood_keywords": ["consultório", "calma", "profundidade"],
+    "texture": "minimal",
+    "negative_space": "generous"
+  },
+  "brand_values": ["compreensão das relações", "formação clínica longa", "presença física (consultório)"],
+  "target_audience": {
+    "age_range": "28-55 (psicoterapia); 15-18 e pais (primeira escolha); 30-50 (transição de carreira)",
+    "profession": "adultos da Zona Sul de Porto Alegre, profissionais em atividade; adolescentes no fim do ensino médio e seus pais; adultos repensando a carreira",
+    "pain_points": ["repete na relação com trabalho, dinheiro e pessoas um jeito que não escolheu", "não sabe o que quer da vida profissional ou sente que escolheu pela pressão dos outros", "adolescente perdido diante da escolha de curso"],
+    "aspirations": ["entender a própria história para escolher diferente", "construir escolhas de estudo e trabalho com mais clareza", "um espaço presencial, com horário fixo, para elaborar"]
+  },
+  "restrictions": {
+    "nunca": ["citar sintoma ou transtorno", "prometer cura ou resultado", "divulgar preço, gratuidade ou desconto", "expor paciente, caso clínico, depoimento ou indicação", "comparar com colegas ou plataformas"],
+    "sempre": ["CRP 07/40773 em peça que fala do serviço"]
+  }
+}

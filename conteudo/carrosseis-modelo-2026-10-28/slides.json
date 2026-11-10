@@ -1,0 +1,140 @@
+{
+ "c1-meu-jeito": [
+  {
+   "kind": "foto",
+   "img": "e36.jpg",
+   "zoom": 1.0,
+   "pos": "50% 30%",
+   "texto": "Quantas coisas você chama de [meu jeito] sem saber de onde elas vieram?"
+  },
+  {
+   "kind": "foto",
+   "img": "g-jantar.png",
+   "zoom": 1.0,
+   "pos": "50% 50%",
+   "texto": "Você chama de [meu jeito] o silêncio que aprendeu em casa quando alguém levantava a voz."
+  },
+  {
+   "kind": "foto",
+   "img": "g-contas.png",
+   "zoom": 1.0,
+   "pos": "50% 50%",
+   "texto": "Você chama de [meu jeito] a conta que não fecha, mesmo no ano em que o salário aumentou."
+  },
+  {
+   "kind": "foto",
+   "img": "g-escritorio.png",
+   "zoom": 1.0,
+   "pos": "50% 50%",
+   "texto": "Você chama de [meu jeito] ficar oito anos num emprego que perdeu o sentido no terceiro."
+  },
+  {
+   "kind": "foto",
+   "img": "g-xicaras.png",
+   "zoom": 1.0,
+   "pos": "50% 50%",
+   "texto": "Você chama de [meu jeito] escolher de novo o mesmo tipo de pessoa, com outro nome."
+  },
+  {
+   "kind": "foto",
+   "img": "site-consultorio.jpg",
+   "zoom": 1.0,
+   "pos": "50% 70%",
+   "texto": "Jeito também se aprende. E o que foi aprendido numa história pode ser [olhado de novo], com tempo."
+  },
+  {
+   "kind": "assinatura",
+   "texto": "A forma como você se relaciona com as pessoas, o trabalho e o dinheiro tem uma história. É dela que a gente fala no consultório.",
+   "linha": "Psicoterapia · presencial na Glória, Porto Alegre, e online"
+  }
+ ],
+ "c2-transicao": [
+  {
+   "kind": "foto",
+   "img": "h30.jpg",
+   "zoom": 1.0,
+   "pos": "50% 30%",
+   "texto": "Passei [20 anos] no mercado financeiro antes de ser psicóloga."
+  },
+  {
+   "kind": "chapado",
+   "fundo": "creme",
+   "titulo": "Doze desses anos foram no mesmo banco.",
+   "corpo": "Em 2019 comecei a faculdade de Psicologia na PUCRS. Hoje atendo no consultório, na Zona Sul de Porto Alegre."
+  },
+  {
+   "kind": "chapado",
+   "fundo": "creme-2",
+   "titulo": "Quem pensa em mudar depois de uma carreira longa costuma ouvir: [não é tarde?]",
+   "corpo": "A resposta curta é sim ou não. Nenhuma das duas ajuda a decidir o que fazer na segunda-feira."
+  },
+  {
+   "kind": "chapado",
+   "fundo": "creme",
+   "titulo": "Uma carreira longa deixa um jeito de decidir.",
+   "corpo": "De lidar com dinheiro, de medir o próprio valor, de aguentar o que não faz sentido. Esse jeito vai junto pra próxima escolha."
+  },
+  {
+   "kind": "chapado",
+   "fundo": "oliva",
+   "titulo": "Antes de escolher a próxima profissão, vale entender o que levou você a [escolher a atual]."
+  },
+  {
+   "kind": "foto",
+   "img": "site-atendimento.png",
+   "zoom": 1.0,
+   "pos": "50% 30%",
+   "texto": "É o caminho da orientação de carreira para adultos: encontros com etapas, que olham para a sua [história de trabalho] antes de olhar para as vagas."
+  },
+  {
+   "kind": "assinatura",
+   "texto": "Orientação profissional para quem está pensando em mudar de área.",
+   "linha": "Online para todo o Brasil · presencial em Porto Alegre"
+  }
+ ],
+ "c3-primeira-escolha": [
+  {
+   "kind": "foto",
+   "img": "p06.jpg",
+   "zoom": 1.0,
+   "pos": "50% 0%",
+   "texto": "Aos 17 anos, pedem que você escolha uma profissão para viver dela [o resto da vida]."
+  },
+  {
+   "kind": "chapado",
+   "fundo": "creme",
+   "titulo": "A escolha chega junto com o ENEM, o vestibular e a opinião da família inteira.",
+   "corpo": "Tudo no mesmo semestre, para alguém que ainda está terminando a escola."
+  },
+  {
+   "kind": "foto",
+   "img": "g-adolescente.png",
+   "zoom": 1.0,
+   "pos": "50% 50%",
+   "texto": "Muitas vezes o curso é escolhido pelo [medo], pela pressão ou pela expectativa dos outros. E pouca gente pergunta de onde veio a vontade."
+  },
+  {
+   "kind": "chapado",
+   "fundo": "oliva",
+   "titulo": "A orientação profissional não entrega uma [resposta pronta]."
+  },
+  {
+   "kind": "chapado",
+   "fundo": "creme",
+   "titulo": "Ela ajuda o adolescente a olhar para a própria história.",
+   "corpo": "O que ele gosta de fazer, o que a família espera dele e o que ele espera de si. Com encontros estruturados, um de cada vez."
+  },
+  {
+   "kind": "foto",
+   "img": "g-poltrona.png",
+   "zoom": 1.0,
+   "pos": "50% 50%",
+   "texto": "Os pais participam. A decisão continua sendo [dele]."
+  },
+  {
+   "kind": "assinatura",
+   "texto": "Escolher uma profissão, não a vida inteira.",
+   "linha": "Orientação profissional · online para todo o Brasil e presencial em Porto Alegre"
+  }
+ ]
+}

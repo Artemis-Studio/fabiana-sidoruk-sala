@@ -25,14 +25,11 @@ Bom pedido tem 3 partes: **(1) qual tarefa · (2) pra qual público/objetivo · 
 - `design-system/` — identidade visual (abra `design-system/guia-visual.html` no navegador)
 - `brand-profile.json` — perfil de marca que as skills de anúncio e vídeo leem
 - `calls/` — o que foi conversado nas reuniões
+- `pesquisa-mercado/` · `spy/` — inteligência de mercado e concorrência
 - `producao/` — imagens de inserção, capas e legendas dos reels
 - `entregas/videos-e-carrosseis/` — reels, vídeos animados e carrosséis finalizados
 - `conteudo/` — peças em produção: carrosséis-modelo e roteiros dos reels animados
 - `entregas/2026-10/` — os 8 reels editados (vídeo, capa e fala de cada um) e os 3 reels animados de exemplo
-
-## Fora deste repositório
-
-A pesquisa de mercado (`pesquisa-mercado/`) e a análise de referências (`spy/`) não fazem parte da versão pública. Referências a essas pastas nos documentos valem para a versão completa da Sala.
 
 ## Regra de ouro
 

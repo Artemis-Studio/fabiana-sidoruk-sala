@@ -134,8 +134,8 @@ fabiana-sidoruk/
 ├── automacao/                      ← CANON: paper-designs (carrossel) + whiteboard + instagram-watch (baixar IG)
 ├── playbook-narrativas-mktops.md   ← CANON: 4 atos
 ├── design-system/                  ← _base (CANON) + design do cliente
-├── pesquisa-mercado/               ← CLIENTE: briefing estratégico (fora do repo público)
-├── spy/                            ← CLIENTE: análise de concorrentes (fora do repo público)
+├── pesquisa-mercado/               ← CLIENTE: briefing estratégico
+├── spy/                            ← CLIENTE: análise de concorrentes
 ├── conteudo/                       ← CLIENTE: copy + roteiros prontos
 └── entregas/                       ← CLIENTE: outputs finais por mês
 ```
